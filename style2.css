@@ -115,7 +115,7 @@ list-style: none;
 /*top banner*/
 .top-banner{
     background-color: #4fb3d4;
-    background-image: url('./images/asset\ 32.png');
+    background-image: url('./asset\ 32.png');
     background-size: 300px ;
 }
 
@@ -204,7 +204,7 @@ list-style: none;
 
 /* Cards*/
 .features-section{
-    background-image: url('./images/asset44.svg');
+    background-image: url('./asset44.svg');
     background-repeat: no-repeat;
     background-position:center ;
 }
@@ -253,7 +253,7 @@ list-style: none;
     width: 10%;
 }
 .paragraph{
-    background-image: url('./images/asset 35.svg');
+    background-image: url('./asset 35.svg');
     background-repeat:no-repeat ;
     background-position:0% 0%;
     color: black;
@@ -280,7 +280,7 @@ list-style: none;
     position: relative;
     min-height: 300px;
     background: black;
-    background: linear-gradient(rgb(0, 0 ,0, 0.1), rgb(0,0,0,0.8)), url('./images/asset 37.jpeg');
+    background: linear-gradient(rgb(0, 0 ,0, 0.1), rgb(0,0,0,0.8)), url('./asset 37.jpeg');
     background-size:  cover;
     transition: 0.2s ease-out;
 }
@@ -291,17 +291,17 @@ list-style: none;
 }
 
 .example-card:nth-child(2){
-    background: linear-gradient(rgb(0, 0 ,0, 0.1), rgb(0,0,0,0.8)), url('./images/asset 36.jpeg');
+    background: linear-gradient(rgb(0, 0 ,0, 0.1), rgb(0,0,0,0.8)), url('./asset 36.jpeg');
     background-size: cover;
 }
 
 .example-card:nth-child(3){
-    background: linear-gradient(rgb(0, 0 ,0, 0.1), rgb(0,0,0,0.8)), url('./images/asset 38.jpeg');
+    background: linear-gradient(rgb(0, 0 ,0, 0.1), rgb(0,0,0,0.8)), url('./asset 38.jpeg');
     background-size: cover;
 }
 
 .example-card:nth-child(4){
-    background: linear-gradient(rgb(0, 0 ,0, 0.1), rgb(0,0,0,0.8)), url('./images/asset 39.jpeg');
+    background: linear-gradient(rgb(0, 0 ,0, 0.1), rgb(0,0,0,0.8)), url('./asset 39.jpeg');
     background-size: cover;
 }
 
